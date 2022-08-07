@@ -1,0 +1,248 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountryResults renders 1`] = `
+<div>
+  <div>
+    <br />
+    <div
+      class="sc-bczRLJ eyXzyt"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1"
+      >
+         
+         
+      </div>
+    </div>
+    <br />
+    <div>
+      <div
+        class="sc-gsnTZi hcNodn"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Shuffle
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+       
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CustomButton renders 1`] = `
+<div>
+  <div
+    class="sc-gsnTZi hcNodn"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Shuffle
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Dashboard renders 1`] = `
+<div>
+  <div
+    class="sc-iBkjds zVHAC"
+  >
+    <div
+      class="sc-dkzDqf gcKDBg"
+    >
+      <h1>
+         Start Shuffling! 
+      </h1>
+    </div>
+    <div
+      class="sc-hKMtZM"
+    >
+      <div
+        class="sc-gKXOVf fCgQRH"
+      >
+        <div
+          class="sc-eCYdqJ gTsWhs"
+        >
+          <div
+            class=" css-b62m3t-container"
+          >
+            <span
+              class="css-1f43avz-a11yText-A11yText"
+              id="react-select-2-live-region"
+            />
+            <span
+              aria-atomic="false"
+              aria-live="polite"
+              aria-relevant="additions text"
+              class="css-1f43avz-a11yText-A11yText"
+            />
+            <div
+              class=" css-1s2u09g-control"
+            >
+              <div
+                class=" css-319lph-ValueContainer"
+              >
+                <div
+                  class=" css-qc6sy-singleValue"
+                >
+                  🇩🇪 Germany
+                </div>
+                <div
+                  class=" css-6j8wv5-Input"
+                  data-value=""
+                >
+                  <input
+                    aria-autocomplete="list"
+                    aria-expanded="false"
+                    aria-haspopup="true"
+                    autocapitalize="none"
+                    autocomplete="off"
+                    autocorrect="off"
+                    class=""
+                    id="react-select-2-input"
+                    role="combobox"
+                    spellcheck="false"
+                    style="opacity: 1; width: 100%; grid-area: 1 / 2; min-width: 2px; border: 0px; margin: 0px; outline: 0; padding: 0px;"
+                    tabindex="0"
+                    type="text"
+                    value=""
+                  />
+                </div>
+              </div>
+              <div
+                class=" css-1hb7zxy-IndicatorsContainer"
+              >
+                <span
+                  class=" css-1okebmr-indicatorSeparator"
+                />
+                <div
+                  aria-hidden="true"
+                  class=" css-tlfecz-indicatorContainer"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="css-tj5bde-Svg"
+                    focusable="false"
+                    height="20"
+                    viewBox="0 0 20 20"
+                    width="20"
+                  >
+                    <path
+                      d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <input
+              name="country list"
+              type="hidden"
+              value="Germany"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-jSMfEi chTvnt"
+        >
+          Region
+        </div>
+      </div>
+      <div>
+        <br />
+        <div
+          class="sc-bczRLJ eyXzyt"
+        >
+          <div
+            class="MuiPaper-root MuiCard-root MuiPaper-elevation1"
+          >
+             
+             
+          </div>
+        </div>
+        <br />
+        <div>
+          <div
+            class="sc-gsnTZi hcNodn"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Shuffle
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+           
+        </div>
+      </div>
+    </div>
+    <a
+      aria-label="Open GitHub project"
+      class="github-corner"
+      href="https://github.com/ayonious/random-names"
+    >
+      <svg
+        height="80"
+        style="position: absolute; top: 0px; fill: #fff; right: 0px;"
+        viewBox="0 0 250 250"
+        width="80"
+      >
+        <path
+          class="octo-banner"
+          d="M0 0l115 115h15l12 27 108 108V0z"
+          fill="#5f32b3"
+        />
+        <path
+          class="octo-arm"
+          d="M128 109c-15-9-9-19-9-19 3-7 2-11 2-11-1-7 3-2 3-2 4 5 2 11 2 11-3 10 5 15 9 16"
+          style="transform-origin: 130px 106px;"
+        />
+        <path
+          class="octo-body"
+          d="M115 115s4 2 5 0l14-14c3-2 6-3 8-3-8-11-15-24 2-41 5-5 10-7 16-7 1-2 3-7 12-11 0 0 5 3 7 16 4 2 8 5 12 9s7 8 9 12c14 3 17 7 17 7-4 8-9 11-11 11 0 6-2 11-7 16-16 16-30 10-41 2 0 3-1 7-5 11l-12 11c-1 1 1 5 1 5z"
+        />
+      </svg>
+    </a>
+  </div>
+</div>
+`;
+
+exports[`Greeting renders 1`] = `
+<div>
+  <div
+    class="sc-dkzDqf gcKDBg"
+  >
+    <h1>
+       Start Shuffling! 
+    </h1>
+  </div>
+</div>
+`;
